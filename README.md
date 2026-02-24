@@ -237,21 +237,20 @@ predict_image(model, image_index=55, dataset=test_dataset)
 
 ## Training Loss, Validation Loss Vs Iteration Plot
 <img width="589" height="256" alt="Screenshot 2026-02-24 112740" src="https://github.com/user-attachments/assets/046d1e9d-cc32-4a07-9000-1122e0991750" />
-
-
-## Confusion Matrix
-
 <img width="919" height="675" alt="Screenshot 2026-02-24 112749" src="https://github.com/user-attachments/assets/87f70a4a-e2d9-408a-99b7-af514faae9c0" />
 
-
-## Classification Report
-
+## Confusion Matrix
 <img width="860" height="681" alt="Screenshot 2026-02-24 112811" src="https://github.com/user-attachments/assets/3c017a00-cb00-4518-bcb5-6672db95842a" />
 
 
-### New Sample Data Prediction
-
+## Classification Report
 <img width="554" height="248" alt="Screenshot 2026-02-24 112819" src="https://github.com/user-attachments/assets/5ea973f0-211e-4fd9-bf9e-b3f034c2451e" />
+
+
+### New Sample Data Prediction
+<img width="513" height="483" alt="Screenshot 2026-02-24 113332" src="https://github.com/user-attachments/assets/607f387c-c2c7-46e0-ba90-e129e88daab1" />
+<img width="484" height="486" alt="Screenshot 2026-02-24 113338" src="https://github.com/user-attachments/assets/8fcecf21-b147-4b60-89cd-5d492d59202e" />
+
 
 
 ## RESULT:
