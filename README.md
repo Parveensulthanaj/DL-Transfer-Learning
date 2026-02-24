@@ -240,11 +240,12 @@ predict_image(model, image_index=55, dataset=test_dataset)
 <img width="919" height="675" alt="Screenshot 2026-02-24 112749" src="https://github.com/user-attachments/assets/87f70a4a-e2d9-408a-99b7-af514faae9c0" />
 
 ## Confusion Matrix
-<img width="860" height="681" alt="Screenshot 2026-02-24 112811" src="https://github.com/user-attachments/assets/3c017a00-cb00-4518-bcb5-6672db95842a" />
+<img width="748" height="629" alt="Screenshot 2026-02-24 114852" src="https://github.com/user-attachments/assets/c17e32c5-d694-468d-b65f-00b331fd6b49" />
 
 
 ## Classification Report
-<img width="554" height="248" alt="Screenshot 2026-02-24 112819" src="https://github.com/user-attachments/assets/5ea973f0-211e-4fd9-bf9e-b3f034c2451e" />
+<img width="619" height="265" alt="Screenshot 2026-02-24 114857" src="https://github.com/user-attachments/assets/de9736c4-cd63-4af9-9724-407bd4116627" />
+
 
 
 ### New Sample Data Prediction
